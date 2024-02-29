@@ -1,5 +1,17 @@
 [
-     {
+    {
+        "title": "American Psycho",
+        "type": "movie",
+        "date": 
+            {
+            "year": "2024",
+            "month": "02",
+            "day": "29",
+            "string": "2024-02-29"
+            },
+        "my_rating": 4
+    },
+    {
         "title": "Citizenfour",
         "type": "movie",
         "date": 
