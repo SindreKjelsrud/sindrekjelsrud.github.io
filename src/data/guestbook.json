@@ -1,0 +1,19 @@
+{   
+  "visitors": [
+    {
+      "name":"Sid",
+      "social":"sidski",
+      "sociallink":"https://kjelsrud.dev",
+      "image":"/img/guestbook/sid_pizza.webp",
+      "date": {
+        "year": "2024",
+        "month": "01",
+        "day": "03",
+        "string": "01.03.2024"
+      }
+    }
+  ],
+  "meta": {
+    "lastModified": "March 01, 2024"
+  }
+}
