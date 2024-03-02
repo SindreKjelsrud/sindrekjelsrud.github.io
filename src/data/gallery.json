@@ -58,7 +58,7 @@
           "day": "18",
           "string": "2024-02-18"
           },
-      "image": "/img/gallery/valencia/red_horse_montanejos.JPG"
+      "image": "/img/gallery/valencia/red_horse_montanejos.webp"
     }, 
     {
       "date": 
@@ -148,7 +148,7 @@
           "day": "29",
           "string": "2024-01-29"
           },
-      "image": "/img/gallery/valencia/chopper.jpg"
+      "image": "/img/gallery/valencia/chopper.webp"
     }, 
     {
       "date": 
@@ -158,7 +158,7 @@
           "day": "25",
           "string": "2024-01-25"
           },
-      "image": "/img/gallery/valencia/orangetree.jpg"
+      "image": "/img/gallery/valencia/orangetree.webp"
     }
   ]
 }
