@@ -7,13 +7,25 @@
       "image":"/img/guestbook/sid_pizza.webp",
       "date": {
         "year": "2024",
-        "month": "01",
-        "day": "03",
+        "month": "03",
+        "day": "01",
         "string": "01.03.2024"
+      }
+    }, 
+    {
+      "name":"Albert",
+      "social":"bayazidi",
+      "sociallink":"https://bayazidi.xyz",
+      "image":"/img/guestbook/albert_pizza.webp",
+      "date": {
+        "year": "2024",
+        "month": "03",
+        "day": "02",
+        "string": "02.03.2024"
       }
     }
   ],
   "meta": {
-    "lastModified": "March 01, 2024"
+    "lastModified": "March 02, 2024"
   }
 }
