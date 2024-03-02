@@ -9,9 +9,7 @@ const visitors = guestbook["visitors"];
     <h1 class="text-3xl font-extrabold">📓 Guestbook</h1>
     <blockquote><p><em>Last update: {guestbook.meta.lastModified}</em></p></blockquote>
     <div class="flex flex-col gap-2">
-      <p class="italic">In the kitchen of the heart, each of us savors the memory of a beloved pizza slice. This favorite flavor, distinct to every palate, evokes a taste as satisfying and nostalgic as home.</p>
-      <p class="blog">Welcome to the <i>digital pizzeria</i>! A place where the visitors of my site can leave a little <strong>"I was here"</strong>-tag by taking a moment to doodle a pizza slice, snapping a picture of their creation, and sharing it with me at <a class="font-bold" href="mailto:kjelsrudsindre@gmail.com">kjelsrudsindre@gmail.com</a>. Don't forget to include the picture, your name & website/social media!</p>
-      <p>And remember, creativity knows no bounds! Just like in my sketch, where I went with a Bitcoin pizza slice!🪙</p>
+      <p class="blog">Welcome to the <i>digital pizzeria</i>! Leave your mark by doodling a pizza slice, snapping a pic, and sharing it with me at <a class="font-bold" href="mailto:kjelsrudsindre@gmail.com">kjelsrudsindre@gmail.com</a> with your name & social media / website. And remember, creativity knows no bounds! Just like in my sketch, where I went with a Bitcoin pizza slice!🪙</p>
    </div>
     <div class="grid grid-cols-2 md:grid-cols-3 gap-2">
       {visitors.map((visitor) => (
