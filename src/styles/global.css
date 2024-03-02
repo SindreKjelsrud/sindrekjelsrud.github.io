@@ -151,6 +151,15 @@ p {
 	padding-left: 10px;
 }
 
+/* GUESTBOOK */ 
+.guestbook a:hover {
+  background-color: var(--dark-1);
+  color: var(--dark-bg);
+}
+
+.dark .guestbook a:hover {
+  background-color: var(--light-link);
+}
 /* RANDOM */
 code {
 	display: block;
