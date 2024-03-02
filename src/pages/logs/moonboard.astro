@@ -16,9 +16,14 @@ const mb2016Setups = mb["2016"];
                         class="bg-yellow-500 rounded-xl"
                     />
                     <p class="font-bold text-xs">{mb.route} ({mb.grade}):</p>
-                    <p class="text-xs">
-                      {mb.tries == 1 ? "Flash" : `${mb.tries} tries`} | {mb.benchmark ? "Benchmarked" : "Not benchmarked"} | {mb.date.string}
-                    </p>
+                     
+                    <div class="flex flex-col md:flex-row md:gap-1 text-xs items-center">
+                      <span>
+                        {mb.tries == 1 ? "Flash" : `${mb.tries} tries`} | {mb.benchmark ? "Benchmarked" : "Not benchmarked"}
+                      </span>
+                      <span class="hidden md:inline"> | </span>
+                      <span class="block md:inline">{mb.date.string}</span>
+                    </div>
                 </div>
             ))}
      </div>
