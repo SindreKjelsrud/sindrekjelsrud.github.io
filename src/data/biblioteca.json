@@ -1,5 +1,18 @@
 [
     {
+        "isbn": "9781569319017",
+        "title": "One Piece: Vol.1",
+        "date": 
+            {
+              "year": "2024",
+              "month": "03",
+              "day": "06",
+              "string": "2024-03-06"
+            },
+        "my_rating": 5,
+        "author": "Eiichiro Oda"
+    },   
+    {
         "isbn": "9781529035667",
         "title": "Permanent Record",
         "date": 
