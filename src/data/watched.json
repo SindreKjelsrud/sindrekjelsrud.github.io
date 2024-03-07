@@ -1,5 +1,17 @@
 [
     {
+        "title": "In Time",
+        "type": "movie",
+        "date": 
+            {
+            "year": "2024",
+            "month": "03",
+            "day": "06",
+            "string": "2024-03-06"
+            },
+        "my_rating": 3
+    },
+    {
         "title": "Violet Evergarden",
         "type": "anime",
         "date": 
@@ -10,7 +22,8 @@
             "string": "2024-03-05"
             },
         "my_rating": 5
-    },   {
+    },   
+    {
         "title": "Seven Pounds",
         "type": "movie",
         "date": 
