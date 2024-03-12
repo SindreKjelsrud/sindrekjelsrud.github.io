@@ -4,7 +4,7 @@ description: ""
 layout: "../layouts/Layout.astro"
 ---
 
-> *Last update: January 23, 2024*
+> *Last update: March 12, 2024*
 
 ## What do I use?
 > This page was inspired by [**Uses This**](https://usesthis.com/), and you can see more pages like this there.
@@ -21,15 +21,15 @@ I've also added the names of my machines as I think these are fun to show. The n
 
 #### personal laptop (water7)
 
-My primary laptop that I use for all schoolwork and personal stuff is my **14" Acer Swift 3**. It's got an i5 processor, a 1TB SSD and 8GB of RAM. I bought this back in 2020 when I managed to spill some juice over my MacBook Air which sadly "died".
+My primary laptop that I use for all schoolwork and personal stuff is my **14" Acer Swift 3**. Its got an i5 processor, a 1TB SSD and 8GB of RAM. I bought this back in 2020 when I managed to spill some juice over my MacBook Air which sadly "died".
 
 [![water7.webp](/img/water7.webp)](/img/water7.webp)
 
-As you can see in my beautiful Minecraft GRUB, the laptop is currently dualbooting Arch Linux and Windows 10. This is due to the university not always liking Linux for exams. Quite shit laptop, but it does the job.
+I was dualbooting Windows and Arch before, but no longer do since Windows just fucked up everything, multiple times, and I no longer need it for university exams. Might dualboot with another Linux distro in the future, we'll see. Quite shit laptop, but looks very nice with the Minecraft GRUB! 
 
 #### gaming pc (skypiea)
 
-For gaming and just mindless browsing at home I use a prebuilt **HP Omen 30L**. I bought this back in 2021 because my first gaming pc was kinda slowing down and I wanted the new 3080 graphics card hehe.  On the OS side it's running Windows 11 because some of the games I play unfortunately won't work on Linux.
+For gaming and just mindless browsing at home I use a prebuilt **HP Omen 30L**. I bought this back in 2021, because my first gaming pc was kinda slowing down and I wanted the new 3080 graphics card hehe.  On the OS side it's running Windows 11 because some of the games I play unfortunately won't work on Linux, but I might do the switch anyways some time in the future.
 
 [![lougetown.webp](/img/lougetown.webp)](/img/lougetown.webp)
 
@@ -42,7 +42,7 @@ Here is a list over some of the peripherals I use for it:
 
 #### home server (eastblue)
 
-Actually my latest addition! I bought this **HP Prodesk 600 G3 SFF** from [bergenbruktpc.no](https://bergenbruktpc.no/) on sale for around 1300NOK with an additional 16GBs of RAM. I installed ProxMox on it after quite a lot of BIOS hassle.  In short, the specs are an Intel Core i7-6700, 256GB NVME SSD, 500GB HDD & 32GB RAM.
+Actually my latest addition! I bought this **HP Prodesk 600 G3 SFF** from [**bergenbruktpc.no**](https://bergenbruktpc.no/) on sale for around 1300NOK with an additional 16GBs of RAM. I installed ProxMox on it after quite a lot of BIOS hassle.  In short, the specs are an Intel Core i7-6700, 256GB NVME SSD, 500GB HDD & 32GB RAM.
 
 [![eastblue.webp](/img/eastblue.webp)](/img/eastblue.webp)
 
@@ -52,14 +52,14 @@ I'm in the process of starting to selfhost stuff I use and different kinda servi
 
 - **Minecraft server:** Always gotta have one up & running. 
 - **PiVPN:** The simplest way to setup and manage a VPN.
-- **sidBot:** My own Discord bot ([source code](https://github.com/SindreKjelsrud/sidBot)).
-
+- **sidBot:** My own Discord bot **([source code](https://github.com/SindreKjelsrud/sidBot))**.
 
 #### other technology
 
-- **iPhone 13:** Works pretty good, but thinking about switching over to FairPhone.
+- **AirPods 2nd gen:** Earbuds for training, works good.
+- **iPhone 13:** Works pretty good.
 - Some gaming consoles:
-    - **GameBoy Color:** My first mod-project, check out the [post](/blog/breathing-new-life-into-my-old-gameboy-color/) I wrote on it.
+    - **GameBoy Color:** My first mod-project, check out the [**post**](/blog/breathing-new-life-into-my-old-gameboy-color/) I wrote on it.
     - **Nintendo DS Lite:** Gotta have some Mario Kart on the go!
     - **Nintendo Switch:** Animal Crossing has never been cozier.
     - **Nintendo Wii:** Easily the best console for playing at home with friends.
@@ -80,5 +80,6 @@ I'm in the process of starting to selfhost stuff I use and different kinda servi
 - [**NetNewsWire**](https://netnewswire.com/). RSS Reader.
 - [**Signal**](https://signal.org/). Chat service, trying to get more people to use it!
 - [**Spotify**](https://spotify.com/). Current music-service of choice.
+- [**Squoosh**](https://squoosh.app/). Image compression web-app.
 - [**VSCode**](https://github.com/microsoft/vscode). IDE of choice most of the time.
     - [**neovim**](https://neovim.io/). In progress of learning. How do I exit it?
