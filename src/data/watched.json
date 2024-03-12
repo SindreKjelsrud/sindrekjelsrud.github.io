@@ -1,5 +1,17 @@
 [
     {
+        "title": "Dungeons & Dragons: Honor Among Thieves",
+        "type": "movie",
+        "date": 
+            {
+            "year": "2024",
+            "month": "03",
+            "day": "12",
+            "string": "2024-03-12"
+            },
+        "my_rating": 4
+    },
+    {
         "title": "Beautiful Boy",
         "type": "movie",
         "date": 
