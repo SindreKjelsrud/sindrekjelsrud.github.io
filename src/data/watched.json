@@ -1,5 +1,41 @@
 [
     {
+        "title": "Beautiful Boy",
+        "type": "movie",
+        "date": 
+            {
+            "year": "2024",
+            "month": "03",
+            "day": "11",
+            "string": "2024-03-11"
+            },
+        "my_rating": 4
+    },
+    {
+        "title": "Fantastic Beasts: The Crimes of Grindelwald",
+        "type": "movie",
+        "date": 
+            {
+            "year": "2024",
+            "month": "03",
+            "day": "09",
+            "string": "2024-03-09"
+            },
+        "my_rating": 4
+    },
+    {
+        "title": "Star Wars: The Clone Wars S01 & S02",
+        "type": "series",
+        "date": 
+            {
+            "year": "2024",
+            "month": "03",
+            "day": "09",
+            "string": "2024-03-09"
+            },
+        "my_rating": 4
+    },   
+    {
         "title": "Ford v Ferrari",
         "type": "movie",
         "date": 
