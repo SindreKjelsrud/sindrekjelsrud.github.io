@@ -42,12 +42,15 @@ import resume from '../data/resume.json';
         <h2>Education</h2>
         <div class="flex flex-col gap-2">
           {resume.education.map((education) => (
-            <div class="flex gap-2 flex-wrap items-center justify-between">
-              <div class="flex gap-2 flex-wrap items-center">
+            <div class="flex md:gap-2 flex-wrap items-center justify-between">
+              <div class="flex md:gap-2 flex-wrap items-center">
                 <h3>{education.area}</h3>
                 <p><a href={education.url}>{education.institution}</a></p>
               </div>
               <p class="cv-date">{education.startDate} - {education.endDate}</p>
+              {education.description ? 
+                <ul><li class="text-s">{education.description}</pli></ul> 
+                : null}
             </div>
           ))}
         </div>
