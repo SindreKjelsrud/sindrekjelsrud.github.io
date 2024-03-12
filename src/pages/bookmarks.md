@@ -7,6 +7,7 @@ layout: "../layouts/Layout.astro"
 ## Personal websites / blogs
 
 - [**~cengelsen**](https://cengelsen.no) member of [friByte](https://fribyte.no)
+- [**~bayazidi**](https://bayazidi.xyz/) friends website
 - [**~heimvik**](https://heimvik.me/) member of [friByte](https://fribyte.no)
 - [**~mathiash98**](https://mathiash98.github.io/) member of [friByte](https://fribyte.no)
 - [**~timharek**](https://timharek.no/) member of [friByte](https://fribyte.no)
@@ -30,22 +31,13 @@ layout: "../layouts/Layout.astro"
 - [**Stone Locals: Rediscovering the Soul of Climbing**](https://iv.nboeck.de/watch?v=Yj7ZCYMgSvw) fantastic documentary about the people who climb
 - [**The Yin & Yang of Gerry Lopez**](https://iv.nboeck.de/watch?v=GeTMPJ2B5VE) such a beautiful and inspiring surfing documentary
 
-## Some cool repos I've found
-
-#### apps
+## Repositories
 
 - [**ani-cli**](https://github.com/pystardust/ani-cli) cli tool to browse and play anime
 - [**AppFlowy**](https://github.com/AppFlowy-IO/AppFlowy) open-source alternative to Notion
 - [**excalidraw**](https://github.com/excalidraw/excalidraw) virtual whiteboard
 - [**LibreTranslate**](https://github.com/LibreTranslate/LibreTranslate) free & open source machine translation api
 - [**maybe**](https://github.com/maybe-finance/maybe) OS for you personal finances
+- [**PokemonRedExperiments**](https://github.com/PWhiddy/PokemonRedExperiments) playing pokemon red with reinforcement learning
 - [**Ryujinx**](https://github.com/Ryujinx/Ryujinx) experimental nintendo switch emulator
 - [**tldraw**](https://github.com/tldraw/tldraw) infinite canvas
-
-#### friends repos I like
-
-- [**ChimeraCSS**](https://github.com/ChimeraCSS/ChimeraCSS) classless css framework customizable, modern and accessible styling
-
-#### other
-
-- [**PokemonRedExperiments**](https://github.com/PWhiddy/PokemonRedExperiments) playing pokemon red with reinforcement learning
