@@ -27,12 +27,13 @@ jobs:
       - name: Build Astro website 
         run: yarn build 
 
-      - name: Deploy and Reload Caddy
-        uses: appleboy/ssh-action@master
+      - name: Rsync files
+        uses: burnett01/rsync-deployments@5.2
         with:
-          host: ${{ secrets.HOST }}
-          username: ${{ secrets.USER }}
-          key: ${{ secrets.KEY }}
-          port: ${{ secrets.PORT }}
-          script: |
-            sh deploy.sh
+          switches: -avzr --delete
+          path: dist/
+          remote_path: /var/www/kjelsrud.dev/
+          remote_host: ${{ secrets.HOST }}
+          remote_user: ${{ secrets.USER }}
+          remote_key: ${{ secrets.KEY }}
+          remote_port: ${{ secrets.PORT }}
