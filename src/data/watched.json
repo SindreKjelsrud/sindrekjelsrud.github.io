@@ -1,5 +1,17 @@
 [
     {
+        "title": "Anon",
+        "type": "movie",
+        "date": 
+            {
+            "year": "2024",
+            "month": "03",
+            "day": "14",
+            "string": "2024-03-14"
+            },
+        "my_rating": 3
+    },   
+    {
         "title": "Dungeons & Dragons: Honor Among Thieves",
         "type": "movie",
         "date": 
