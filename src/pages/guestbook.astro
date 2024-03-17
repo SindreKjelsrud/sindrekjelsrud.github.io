@@ -9,14 +9,15 @@ const visitors = guestbook["visitors"];
     <h1 class="text-3xl font-extrabold">📓 Guestbook</h1>
     <blockquote><p><em>Last update: {guestbook.meta.lastModified}</em></p></blockquote>
     <div class="flex flex-col gap-2">
-      <p class="blog">Welcome to the <i>digital pizzeria</i>! Leave your mark by doodling a pizza slice, snapping a pic, and sharing it with me at <a class="font-bold" href="mailto:kjelsrudsindre@gmail.com">kjelsrudsindre@gmail.com</a> with your name & social media / website. And remember, creativity knows no bounds! Just like in my sketch, where I went with a Bitcoin pizza slice!🪙</p>
+      <p class="blog">Welcome to the <i>digital pizzeria</i>! Leave your mark by doodling a pizza slice, snapping a pic, and sharing it with me at <a class="font-bold" href="mailto:pizza@kjelsrud.dev">pizza@kjelsrud.dev</a> with your name & social media / website. And remember, creativity knows no bounds! Just like in my sketch, where I went with a Bitcoin pizza slice!🪙</p>
+      <p class="blog italic text-xs"><strong>PS:</strong> This page was inspired by <a class="font-bold" href="https://azlen.me/doorstep">azlen.me</a>!</p>
    </div>
     <div class="grid grid-cols-2 md:grid-cols-3 gap-2">
       {visitors.map((visitor) => (
         <div class="flex flex-col items-center">
           <figure class="relative">
             <img src={visitor.image} class="object-cover h-[300px] w-[300px] rounded-sm"/>
-            <figcaption class="absolute bottom-2 left-2 bg-black text-white px-4 py-2 rounded-xl text-xs">
+            <figcaption class="absolute bottom-2 left-2 bg-black text-white px-2 py-1 rounded-xl text-xs">
               <div class="guestbook">
                 {visitor.name} ✿ 
                 <a href={visitor.sociallink} class="px-2 bg-gray-500 rounded-lg italic">
