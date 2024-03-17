@@ -15,6 +15,7 @@
 - Coding with HTML, CSS, TypeScript, etc.
 - Usage of SSG/frameworks like Hugo or Astro
 - How to use Git
+- How to selfhost websites using Caddy
 - Some understanding of Github Actions + Pages
 - How to create websites that are faster, more secure, and easier to maintain
 - How to use templates to generate static websites
@@ -30,13 +31,17 @@
 - CV
 - Digital garden
 - Gallery
+- Guestbook
 - Logs
+- Now
 - Uses
 - Vinyl collection
 
 ### Future plans:
 
 - [ ] Food wall
+- [ ] Worldmap of places I've been
+- [ ] Page filled with q<D->uotes I like
 
 ## 🛠️ How do I run it locally?
 
