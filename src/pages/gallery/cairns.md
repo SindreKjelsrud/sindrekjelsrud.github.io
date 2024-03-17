@@ -1,5 +1,5 @@
 ---
-title: 'gallery: cairn collection'
+title: '📸 gallery: cairn collection'
 description: ''
 layout: "../../layouts/Gallery.astro"
 ---

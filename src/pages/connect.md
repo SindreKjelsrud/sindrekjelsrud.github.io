@@ -1,5 +1,5 @@
 ---
-title: "Connect"
+title: "🌐 Connect"
 description: ""
 layout: "../layouts/Layout.astro"
 ---

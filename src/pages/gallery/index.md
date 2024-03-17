@@ -1,5 +1,5 @@
 ---
-title: 'gallery'
+title: '📸 gallery'
 description: ''
 layout: "../../layouts/Layout.astro"
 ---
