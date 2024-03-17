@@ -33,6 +33,6 @@ jobs:
           host: ${{ secrets.HOST }}
           username: ${{ secrets.USER }}
           key: ${{ secrets.KEY }}
+          port: ${{ secrets.PORT }}
           script: |
-            rsync -avzr --delete $GITHUB_WORKSPACE/dist/ ${{ secrets.USER }}@${{ secrets.HOST }}:/var/www/kjelsrud.dev/
-            sudo systemctl reload caddy
+            sh deploy.sh
