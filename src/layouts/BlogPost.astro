@@ -7,6 +7,22 @@ type Props = CollectionEntry<'blog'>['data'];
 
 const { title, description, pubDate } = Astro.props;
 ---
+<script type="module" client:load>
+  const jollyroger = document.getElementById('jr');
+
+  const updateImageForTheme = () => {
+    const currentTheme = document.documentElement.classList.contains('dark') ? 'dark' : 'light';
+    jollyroger.src = currentTheme === 'dark' ? '/jollyroger_light.svg' : '/jollyroger_dark.svg';
+  };
+
+  updateImageForTheme();
+
+  const themeToggle = document.getElementById('themeToggle');
+  if (themeToggle) {
+    themeToggle.addEventListener('click', updateImageForTheme);
+  }
+</script>
+
 <SectionContainer>
 	<main class="flex flex-col flex-1 mb-auto break-words mt-4">
 		<article class="flex flex-col gap-1">
@@ -16,6 +32,9 @@ const { title, description, pubDate } = Astro.props;
 			<div class="blog">
 				<slot />
 			</div>
-		</article>
+      <div class="flex items-center justify-center">
+        <img src="/jollyroger_dark.svg" id="jr" class="md:w-48 w-40" alt="Jolly Roger"/>
+		  </div>
+    </article>
 	</main>
 </SectionContainer>
