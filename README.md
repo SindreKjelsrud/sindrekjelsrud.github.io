@@ -41,7 +41,7 @@
 
 - [ ] Food wall
 - [ ] Worldmap of places I've been
-- [ ] Page filled with q<D->uotes I like
+- [ ] Page filled with quotes I like
 
 ## 🛠️ How do I run it locally?
 
