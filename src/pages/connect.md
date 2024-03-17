@@ -6,7 +6,7 @@ layout: "../layouts/Layout.astro"
 
 Feel free to drop me an email! Whether it's to say hello, discuss the latest must-see series, offer a fresh perspective, or anything else. Think of my inbox as the friendly neighborhood café where all conversations are welcome.
 
-E-mail: **kjelsrudsindre@gmail.com**
+E-mail: **hello@kjelsrud.dev**
 
 ## Across the cyberspace 
 

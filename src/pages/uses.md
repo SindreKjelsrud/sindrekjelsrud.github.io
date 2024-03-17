@@ -4,7 +4,7 @@ description: ""
 layout: "../layouts/Layout.astro"
 ---
 
-> *Last update: March 12, 2024*
+> *Last update: March 17, 2024*
 
 ## What do I use?
 > This page was inspired by [**Uses This**](https://usesthis.com/), and you can see more pages like this there.
@@ -75,7 +75,7 @@ I'm in the process of starting to selfhost stuff I use and different kinda servi
     - [**Invidious**](https://invidious.io/). Open source front-end for YouTube.
     - [**uBlock Origin**](https://ublockorigin.com/) Free, open-source ad content blocker.
 - [**GitHub**](https://github.com/). For storing my Git-repos.
-- [**Gmail**](https://gmail.com). Current email provider, but want to switch.
+- [**Migadu**](https://migadu.com). Email provider.
 - [**LocalSend**](https://localsend.org/#/). For sharing files to nearby devices.
 - [**NetNewsWire**](https://netnewswire.com/). RSS Reader.
 - [**Signal**](https://signal.org/). Chat service, trying to get more people to use it!
