@@ -53,6 +53,7 @@ I'm in the process of starting to selfhost stuff I use and different kinda servi
 - **Minecraft server:** Always gotta have one up & running. 
 - **PiVPN:** The simplest way to setup and manage a VPN.
 - **sidBot:** My own Discord bot **([source code](https://github.com/SindreKjelsrud/sidBot))**.
+- **This website:** Finally I can selfhost this myself!
 
 #### other technology
 
