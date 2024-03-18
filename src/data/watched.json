@@ -1,5 +1,17 @@
 [
     {
+        "title": "Bitconned",
+        "type": "movie",
+        "date": 
+            {
+            "year": "2024",
+            "month": "03",
+            "day": "18",
+            "string": "2024-03-18"
+            },
+        "my_rating": 4
+    },    
+    {
         "title": "Anon",
         "type": "movie",
         "date": 
