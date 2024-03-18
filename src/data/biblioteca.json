@@ -1,5 +1,18 @@
 [
     {
+        "isbn": "9781784706289",
+        "title": "Invisible Women: Exposing Data Bias in a World Designed for Men",
+        "date": 
+            {
+              "year": "2024",
+              "month": "03",
+              "day": "18",
+              "string": "2024-03-18"
+            },
+        "my_rating": 5,
+        "author": "Caroline Criado Perez"
+    },    
+    {
         "isbn": "9780575078697",
         "title": "One Piece: Vol.2",
         "date": 
